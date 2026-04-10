@@ -4,7 +4,7 @@
 
   <h2>🚀 Building Reliable & Feature-Rich Telegram Bots</h2>
 
-  <p><strong>Specializing in File Renamers, Secure Link Sharing, Anime/Media Automation & More</strong></p>
+  <p><strong>Specializing in Advanced File Renamers, Secure Link Protection, Anime/Media Automation & More</strong></p>
 
   [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-@MythicBots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mythic_Bots)
 
@@ -24,13 +24,20 @@ My expertise includes:
 
 ---
 
-### 📊 Profile Highlights
+### 📊 My GitHub Activity
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mythic-botz&label=Profile+Views&color=00BFFF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Mythic-botz&label=Profile+Views&color=00BFFF&style=flat-square)
 
-- **235+ contributions** in the last year
-- Active in Python-based Telegram bot development
-- Multiple specialized bots serving real-world content management needs
+#### Real Contribution Activity Graph
+Dynamic line graph showing my actual contributions over the recent period (dots connected by lines for clear activity trends).
+
+<div align="center">
+  <a href="https://github.com/Mythic-botz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythic-botz&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" alt="Mythic-botz Contribution Activity Graph" />
+  </a>
+</div>
+
+**Note**: The graph updates automatically with your real GitHub contributions.
 
 ---
 
@@ -38,6 +45,37 @@ My expertise includes:
 
 **4GB Rename Bot**  
 Powerful Telegram file renamer with permanent thumbnail support, metadata editing, and file-to-video conversion. Handles large files efficiently.
+
+→ [View Repository](https://github.com/Mythic-botz/4gb-Rename-Bot)
+
+**Links Share Bot v1**  
+Securely share links while protecting your channels from copyright strikes.
+
+→ [View Repository](https://github.com/Mythic-botz/Links-Share-Bot-v1)
+
+**Anime Post Bot**  
+Automated anime and media content posting solution.
+
+**V2 Rename Bot (2GB)** & **Test-bot-01** — Additional utilities and experiments.
+
+---
+
+### 🛠️ Technologies
+
+- **Primary Language**: Python
+- **Bot Frameworks**: Pyrogram, Telethon
+- **Key Features**: Large file handling, Metadata manipulation, Thumbnail management, Secure forwarding
+
+---
+
+<div align="center">
+
+**Thank you for visiting my profile!**  
+If my bots helped you, consider starring the repositories ⭐
+
+Feel free to connect for collaborations or custom bot development.
+
+</div>Powerful Telegram file renamer with permanent thumbnail support, metadata editing, and file-to-video conversion. Handles large files efficiently.
 
 → [View Repository](https://github.com/Mythic-botz/4gb-Rename-Bot)
 
