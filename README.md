@@ -31,10 +31,10 @@
 
 ## 🛠 Currently Forging
 
-- 🤖 API Layer bots For Featch data Automation
-- 🔥 Secure Automation Layers for Content Protection
-- 📡 Anime Release & Media Management Tools
-- 🧠 Scalable Backend Architectures
+- 🤖 Advanced API Layer bots for data fetching & automation
+- 🔥 Secure automation layers for content protection
+- 📡 Anime release & media management tools
+- 🧠 Scalable backend architectures
 
 ---
 
@@ -70,11 +70,11 @@
   <img height="195" src="https://streak-stats.demolab.com?user=Mythic-botz&theme=transparent&hide_border=true&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&background=0A0A0A" alt="Streak">
 </p>
 
-#### Lifetime Contribution Graph
-Real activity visualized across the full journey — connected dots tracing every commit, every build.
+#### Real Activity Graph
+Connected dots tracing my actual contribution journey (visualized with full area depth).
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythic-botz&bg_color=0A0A0A&color=8B0000&line=8B0000&point=ffffff&area=true&hide_border=true&title_color=8B0000" alt="Mythic-botz Lifetime Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythic-botz&bg_color=0A0A0A&color=8B0000&line=8B0000&point=ffffff&area=true&hide_border=true&title_color=8B0000" alt="Mythic-botz Activity Graph" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mythic-botz&label=Observed+by&color=8B0000&style=flat-square)
