@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mythic-botz/Mythic-botz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Mythic-botz+(VoidXTora);Crafting+Powerful+Telegram+Bots" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+  <h2>🚀 Building Reliable & Feature-Rich Telegram Bots</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p><strong>Specializing in File Renamers, Secure Link Sharing, Anime/Media Automation & More</strong></p>
+
+  [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-@MythicBots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mythic_Bots)
+
+</div>
+
+---
+
+### 🌟 About Me
+
+Passionate Telegram bot developer focused on creating **high-performance**, user-friendly bots for content creators and channel administrators.
+
+My expertise includes:
+- Advanced **file renaming** with permanent thumbnails, metadata editing, and video conversion (up to **4GB+** support)
+- **Secure link protection** solutions to safeguard channels from copyright issues
+- Automated **anime & media posting** bots
+- Clean, maintainable Python code using Pyrogram/Telethon
+
+---
+
+### 📊 Profile Highlights
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Mythic-botz&label=Profile+Views&color=00BFFF&style=flat-square)
+
+- **235+ contributions** in the last year
+- Active in Python-based Telegram bot development
+- Multiple specialized bots serving real-world content management needs
+
+---
+
+### 🔥 Featured Projects
+
+**4GB Rename Bot**  
+Powerful Telegram file renamer with permanent thumbnail support, metadata editing, and file-to-video conversion. Handles large files efficiently.
+
+→ [View Repository](https://github.com/Mythic-botz/4gb-Rename-Bot)
+
+**Links Share Bot v1**  
+Securely share links while protecting your channels from copyright strikes.
+
+→ [View Repository](https://github.com/Mythic-botz/Links-Share-Bot-v1)
+
+**Anime Post Bot**  
+Automated anime and media content posting solution.
+
+**V2 Rename Bot (2GB)** & **Test-bot-01** – Additional utilities and experiments.
+
+---
+
+### 🛠️ Technologies
+
+- **Primary Language**: Python
+- **Bot Frameworks**: Pyrogram, Telethon
+- **Key Features**: Large file handling, Metadata manipulation, Thumbnail management, Secure forwarding
+
+---
+
+<div align="center">
+
+**Thank you for visiting my profile!**  
+If my bots helped you, consider starring the repositories ⭐
+
+Feel free to connect for collaborations or custom bot requests.
+
+</div>
