@@ -12,7 +12,7 @@
 
 ---
 
-## ☕ The Myth
+## ☕ The Mythic Botz
 
 <img src="https://github.com/Mythic-botz/Mythic-botz/blob/main/assets/Mythic-botz.jpg" width="100%" alt="Mythic-botz" onerror="this.src='https://via.placeholder.com/1200x300/0A0A0A/8B0000?text=Mythic+Presence'">
 
@@ -31,7 +31,7 @@
 
 ## 🛠 Currently Forging
 
-- 🤖 High-performance Telegram Rename & File Systems (4GB+ mastery)
+- 🤖 API Layer bots For Featch data Automation
 - 🔥 Secure Automation Layers for Content Protection
 - 📡 Anime Release & Media Management Tools
 - 🧠 Scalable Backend Architectures
