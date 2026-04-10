@@ -14,7 +14,7 @@
 
 ## ☕ The Myth
 
-<img src="https://github.com/Mythic-botz/Mythic-botz/blob/main/assets/5f0106f08689c1b42596a9b63b11fcbe.jpg" width="100%" alt="Mythic-botz" onerror="this.src='https://via.placeholder.com/1200x300/0A0A0A/8B0000?text=Mythic+Presence'">
+<img src="https://github.com/Mythic-botz/Mythic-botz/blob/main/assets/Mythic-botz.jpg" width="100%" alt="Mythic-botz" onerror="this.src='https://via.placeholder.com/1200x300/0A0A0A/8B0000?text=Mythic+Presence'">
 
 <br>
 
